@@ -195,16 +195,4 @@ Received Import Request.
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
 Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '193c99ffbb9884228e3d519837853933') in 0.079484 seconds
 Number of updated asset objects reloaded before import = 0
-<<<<<<< Updated upstream
 Number of asset objects unloaded after import = 1
-=======
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 486.461457 seconds.
-  path: Assets/Scenes/CreditsScene.unity
-  artifactKey: Guid(5aa954f6e5fda48f4aa33ef32f4f609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/CreditsScene.unity using Guid(5aa954f6e5fda48f4aa33ef32f4f609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55ac4b64361f5520b9253ce9021e1cd') in 0.000920 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
->>>>>>> Stashed changes
